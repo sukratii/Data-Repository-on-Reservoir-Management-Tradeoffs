@@ -41,7 +41,7 @@ The repository includes the following files:
 
 - **/data/observed_storage.csv**: Observed reservoir storage levels (daily).
 - **/data/inflow_sequence.csv**: Daily inflow sequence to the reservoir.
-- **/data/flood_drought_events.csv**: Yearly summary of flood and drought events.
+- **/data/flood_drought_events.xlsx**: Yearly summary of flood and drought events.
 - **/data/model_simulated_storage.csv**: Model-simulated reservoir storage levels (daily).
 
 Each file includes a header row describing the data columns and is formatted as a CSV file for accessibility and compatibility with most data analysis software.
